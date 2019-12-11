@@ -1,0 +1,1 @@
+create index UserIndex on dbo.[User](Name);

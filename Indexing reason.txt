@@ -1,0 +1,7 @@
+Lí do lựa chọn chỉ mục trên cột Name của bảng User:
+- Định danh user (các truy vấn trên YouTube hầu hết là tìm kiếm video, còn lại là tìm kiếm 
+user/kênh)
+- Tốc độ tăng trưởng nội dung (số lượng cũng như tổng thời lượng video) lớn hơn rất nhiều
+so với tốc độ tăng trưởng người dùng mới (2 tỷ lượt người dùng hàng tháng, 500 giờ 
+contents - tương đương 6000 video thời lượng 5 phút - được tạo mới mỗi phút hay 
+263 triệu giờ contents tạo mới mỗi năm trên YouTube - theo Android Authority)
